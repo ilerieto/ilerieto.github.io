@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilerieto.github.io/HuM/sitemap_index.txt
+Sitemap: https://ilerieto.github.io/gja/sitemap_index.txt
+Sitemap: https://ilerieto.github.io/jZU/sitemap_index.txt
+Sitemap: https://ilerieto.github.io/mkg/sitemap_index.txt
